@@ -25,4 +25,5 @@ python3 hw01_led.py
 <img width="2252" height="4000" alt="image" src="https://github.com/user-attachments/assets/0869b05c-abb2-42ae-bd20-60bead828d01" />
 
 실행 영상
+
 https://github.com/user-attachments/assets/5b6c8207-3b82-4acd-b987-199a9c8677b1
